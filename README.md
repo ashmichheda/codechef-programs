@@ -7,8 +7,8 @@ Codechef has always helped me learn Data structures, Algorithms and implement pr
 
 
 
-## About Program Solutions
-Solutions for problems of Levels - (Easy, Medium, Beginner and Programming Contests hosted on Codechef)
+### About Program Solutions
+Solutions for problems I've solved during contests or for Practice on [Codechef](https://www.codechef.com).
 All the problems are solved in Java. Any suggestions on my solutions are welcome.
 The class names are the actual codechef problem name.
 Happy Learning and Coding!!
