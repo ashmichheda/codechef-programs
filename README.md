@@ -1,9 +1,9 @@
 ## codechef-programs
 
-## Author: Ashmi Chheda
+### Author: Ashmi Chheda
 
 ### CodechefJava
-Codechef has always helped me learn Data structures, Algorithms and implement problems of varying complexity thereby learning various concepts of Computer Science. Feel free to contirbute any suggestions/ problems on this repo!
+Codechef has always helped me learn Data structures, Algorithms and implement problems of varying complexity thereby learning various concepts of Computer Science. <br />Feel free to contirbute! :smiley:
 
 
 
