@@ -35,5 +35,6 @@ class Codechef
 	        else    
                 System.out.println("NO");
 	    }
+		sc.close();
 	}
 }
