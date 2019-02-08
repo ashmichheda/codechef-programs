@@ -35,9 +35,6 @@ import java.io.InputStreamReader;
 				System.out.println("Win");
 			else
 				System.out.println("Lose");
-			
-			
-		}
-			
+		}	
 	}
 }
