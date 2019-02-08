@@ -26,7 +26,7 @@ import java.util.List;
 				inputLength[i] = in.length();
 			}
 			if(n == 1) {
-			      String temp="";
+			      String temp = "";
 			 
 			      for (int i = 0; i < in.length(); i++) {
 			         if(temp.indexOf(in.charAt(i)) == -1 ){
@@ -57,7 +57,7 @@ import java.util.List;
 							k++;
 						}
 					}
-					alreadyParsedChar = alreadyParsedChar+minInput.charAt(i);
+					alreadyParsedChar = alreadyParsedChar + minInput.charAt(i);
 					if(k == (input.size()) && k!= 0) {
 						count++;
 						k = 0;
@@ -66,7 +66,6 @@ import java.util.List;
 				}
 				System.out.println(count);
 			}
-			
 		}
 	}
 }
